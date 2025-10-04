@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_apple_llm (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_apple_llm (from `.symlinks/plugins/flutter_apple_llm/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_apple_llm:
+    :path: ".symlinks/plugins/flutter_apple_llm/ios"
+
+SPEC CHECKSUMS:
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  flutter_apple_llm: 85bcc6393221f021532cccd8a52fc0fbaa7c391f
+
+PODFILE CHECKSUM: 915e58fd71f05ae99fabdd8ac2991c68108b3464
+
+COCOAPODS: 1.16.2
