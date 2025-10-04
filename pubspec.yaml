@@ -1,0 +1,12 @@
+name: flutter_llm_sample_workspace
+publish_to: none
+
+environment:
+  sdk: ^3.9.2
+
+workspace:
+  - apps/flutter_llm_sample
+  - packages/flutter_apple_llm
+
+dev_dependencies:
+  pigeon: ^26.0.1
